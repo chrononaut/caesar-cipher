@@ -1,0 +1,14 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "JS implementation of a Caesar cipher.",
+  "main": "caesarCipher.js",
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "author": "Michael Zarivny",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.1"
+  }
+}
